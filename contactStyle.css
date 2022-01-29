@@ -1,0 +1,19 @@
+body{
+    background:linear-gradient(to right,  #031c6e, #8ecdff);
+    align-items: center;
+    display:flex;
+    
+}
+
+.mainBox{
+    text-align: center;
+    padding: 10%;
+    height: fit-content;
+    width: 25%;
+    background-color: rgba(250, 250, 250, 0.3);
+    transform: translateX(55%);
+}
+img{
+    width: 20%;
+    height: 20%;
+}
