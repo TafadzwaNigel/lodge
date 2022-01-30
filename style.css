@@ -28,12 +28,6 @@ body{
     width: auto;
     margin-bottom: 30px;
     transform:  translateX(-7%);
-    
-}
-
-button{
-    border-radius: 60%;
-    tab-size: 4cm;
 }
 
 .circle1{
