@@ -41,23 +41,23 @@ body{
  }
 
 img.contactUs{
-    width: 45%;
-    height: 45%;
+    width: 65%;
+    height: 65%;
     border: 3px;
     border-radius: 65%;
     transform: translate(50%,0%);
 }
 img.pictures{
-    width: 65%;
-    height: 65%;
+    width: 85%;
+    height: 85%;
     border: 3px;
     border-radius: 65%;
     transform: translate(0%,50%);
 }
 
 img.services{
-    width: 90%;
-    height: 90%;
+    width: 100%;
+    height: 100%;
     border: 3px;
     border-radius: 65%;
     transform: translate(0%,100%);
