@@ -1,0 +1,223 @@
+body{
+    background:linear-gradient(to right,  #031c6e, #8ecdff);
+}
+.mainBox{
+    align-items: center;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+h1{ 
+    background-image: url("las2.jpg");
+    background-position: center;
+}
+.welcomeBox{
+    display: flex;
+    width: 95%;
+    height: max-content;
+    color: rgb(153, 144, 93);
+    background-color: rgb(96, 169, 218,0.35);
+    font-size: 40;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: stretch;
+    border: 3px;
+    border-radius: 5%;
+}
+
+img.bigPicture{
+    margin-top: 5%;
+    width: 90%;
+    height: max-content;
+    border: 3px;
+    border-radius: 2%;
+}
+
+.navigation{
+ 
+    display: flex;
+    height: fit-content;
+    width: auto;
+    margin-bottom: 5%;
+}
+
+
+.circle1{
+   margin: 3%;
+}
+.circle2{
+    margin: 3%;
+    transform: translateX(18%);
+    
+ }
+ .circle3{
+    margin:3%;
+    
+ }
+
+img.contactUs{
+    width: 45%;
+    height: 45%;
+    border: 3px;
+    border-radius: 65%;
+}
+img.pictures{
+    width: 25%;
+    height: 60%;
+    border: 3px;
+}
+
+img.services{
+    width: 45%;
+    height: 45%;
+    border: 3px;
+    border-radius: 65%;
+}
+
+
+.maEats{
+    max-width: 100%;
+    height: max-content;
+    display:block;
+    position: relative;
+    margin-left: 10%;
+    
+}
+.breakfast{
+    background-color: rgba(250, 250, 250, 0.45);
+    font-size: 100%;
+    width: 38%;
+    height: 45%;
+    text-align: center;
+    margin-top: 0.7cm;
+    margin-left: 1cm;
+    border: 3px;
+    border-radius: 5%;
+}
+
+
+.breakfast2{
+    background-color: rgba(250, 250, 250, 0.45);
+    font-size: 100%;
+    width: 38%;
+    height: 35%;
+    text-align: center;
+    margin-top: 0.7cm;
+    margin-left: 1cm;
+    border: 3px;
+    border-radius: 5%;
+}
+
+.lunch_dinner{
+    position: relative;
+    display:block;
+    background-color: rgba(250, 250, 250, 0.45);
+    font-size: 100%;
+    width:max-content;
+    height: 39%;
+    align-content: center;
+    align-items: center;
+    margin-top: 0.7cm;
+    margin-left: 1cm;
+    border: 3px;
+    border-radius: 5%;
+}
+
+.sandwhich{
+    background-color: rgba(250, 250, 250, 0.45);
+    font-size: 100%;
+    width: 38%;
+    height: 20%;
+    text-align: center;
+    margin-top: 0.7cm;
+    margin-left: 1cm;
+    border: 3px;
+    border-radius: 5%;
+}
+
+.beverages,.chips{
+    background-color: rgba(250, 250, 250, 0.45);
+    font-size: 100%;
+    width: 38%;
+    height: 15%;
+    text-align: center;
+    margin-top: 0.7cm;
+    margin-left: 1cm;
+    border: 3px;
+    border-radius: 5%;
+    margin-bottom: 0.7cm;
+}
+
+
+.pictureBox{
+    margin-left: 30%;
+    display:block;
+    position: relative;
+}
+
+img.P3{
+    max-width: 375px;
+    height: 50%;
+    margin: 3%;
+    border-radius: 2%;
+    border-style:inset;
+    border-color: #788894;
+    border-width: 10px;
+    
+    
+}
+img.P4{
+    max-width: 375px;
+    height: 50%;
+    margin: 3%;
+    border-radius: 2%;
+    border-style:inset;
+    border-color: #788894;
+    border-width: 10px;
+}
+img.P5{
+    max-width: 375px;
+    height: 50%;
+    margin: 3%;
+    border-radius: 2%;
+    border-style:inset;
+    border-color: #788894;
+    border-width: 10px;
+    
+}
+img.P6{
+    max-width: 375px;
+    height: 50%;
+    margin: 3%;
+    border-radius: 2%;
+    border-style:inset;
+    border-color: #788894;
+    border-width: 10px;
+    
+}
+img.P7{
+    max-width: 375px;
+    height: 50%;
+    margin: 3%;
+    border-radius: 2%;
+    border-style:inset;
+    border-color: #788894;
+    border-width: 10px;
+    
+}
+img.P8{
+    max-width: 375px;
+    height: 50%;
+    margin: 3%;
+    border-radius: 2%;
+    border-style:inset;
+    border-color: #788894;
+    border-width: 10px;
+}
+img.P9{
+    max-width: 375px;
+    height: 50%;
+    margin: 3%;
+    border-radius: 2%;
+    border-style:inset;
+    border-color: #788894;
+    border-width: 10px;   
+}
